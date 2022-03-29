@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80dea3ef2dc789bca7f4d4df5d4f68cc",
+    "revision": "78df956daf9c8d5057cd5f867337e644",
     "url": "https://mabu1432.github.io/csb-9dgnkp/index.html"
   },
   {
-    "revision": "fe3a02634f2586db6700",
+    "revision": "d9e22a9aa45f3ef28a26",
     "url": "https://mabu1432.github.io/csb-9dgnkp/static/css/main.bdff994f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://mabu1432.github.io/csb-9dgnkp/static/js/2.7eeb4de7.chunk.js"
   },
   {
-    "revision": "fe3a02634f2586db6700",
-    "url": "https://mabu1432.github.io/csb-9dgnkp/static/js/main.80970cda.chunk.js"
+    "revision": "d9e22a9aa45f3ef28a26",
+    "url": "https://mabu1432.github.io/csb-9dgnkp/static/js/main.f8b77b7a.chunk.js"
   },
   {
     "revision": "79d97640fbd77ceb5c8a",
